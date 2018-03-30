@@ -11,7 +11,7 @@ Time spent: **X** hours spent in total
     - Vulnerability types: XSS
     - Tested in version: 4.2
     - Fixed in version: 4.2.3
-  - [ ] GIF Walkthrough: ![] (https://github.com/nicoleio712/Week7/blob/master/XSS_Hover_Over_Attack.gif)
+  - [ ] GIF Walkthrough: <img src="https://github.com/nicoleio712/Week7/blob/master/XSS_Hover_Over_Attack.gif" width="800">
   - [ ] Steps to recreate: 
   - [ ] Affected source code:
     - [Link 1](https://core.trac.wordpress.org/browser/tags/version/src/source_file.php)
