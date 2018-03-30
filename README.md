@@ -20,7 +20,7 @@ Time spent: **X** hours spent in total
     - Vulnerability types: XSS
     - Tested in version: 4.2
     - Fixed in version: 4.2.1
-  - [ ] GIF Walkthrough: 
+  - [ ] GIF Walkthrough: <img src="https://github.com/nicoleio712/Week7/blob/master/XSS_Long_Post_Attack.gif" width="800">
   - [ ] Steps to recreate: 
   - [ ] Affected source code:
     - [Link 1](https://core.trac.wordpress.org/browser/tags/version/src/source_file.php)
@@ -29,7 +29,7 @@ Time spent: **X** hours spent in total
     - Vulnerability types: XSS
     - Tested in version: 4.2
     - Fixed in version: 4.2.10
-  - [ ] GIF Walkthrough: 
+  - [ ] GIF Walkthrough: <img src="https://github.com/nicoleio712/Week7/blob/master/XSS_attack_WP_real.gif" width="800">
   - [ ] Steps to recreate: 
   - [ ] Affected source code:
     - [Link 1](https://core.trac.wordpress.org/browser/tags/version/src/source_file.php)
@@ -38,7 +38,7 @@ Time spent: **X** hours spent in total
     - Vulnerability types: XSS
     - Tested in version: 4.2
     - Fixed in version: 4.2.13
-  - [ ] GIF Walkthrough: 
+  - [ ] GIF Walkthrough: <img src="https://github.com/nicoleio712/Week7/blob/master/XSS_Youtube_attack.gif" width="800">
   - [ ] Steps to recreate: 
   - [ ] Affected source code:
     - [Link 1](https://core.trac.wordpress.org/browser/tags/version/src/source_file.php)
