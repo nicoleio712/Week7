@@ -12,7 +12,7 @@ Time spent: 12 hours spent in total
     - Tested in version: 4.2
     - Fixed in version: 4.2.3
   - [ ] GIF Walkthrough: <img src="https://github.com/nicoleio712/Week7/blob/master/XSS_Hover_Over_Attack.gif" width="800">
-  - [ ] Steps to recreate: Go to the Klikki website and copy the longer line of XSS code (a link alert). Logged in as admin, create a new post. Switch the mode from visual to text and delete any text there already. Paste the attack code line in the text box and publish the post. Upon viewing the post, the alert will pop up.
+  - [ ] Steps to recreate: Go to the Klikki website and copy the longer line of XSS code (a link alert). Logged in as admin, create a new post. Switch the mode from visual to text and delete any text there already. Paste the attack code line in the text box and publish the post. Upon viewing the post, hover over the link and the alert will pop up.
   - [ ] Affected source code:
     - [Link 1](https://core.trac.wordpress.org/browser/tags/version/src/source_file.php)
 2. (Required) Unauthenticated Stored Cross-Site Scripting (XSS) --Long Comment
